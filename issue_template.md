@@ -6,23 +6,21 @@ Issues are for problem only, NOT for asking questions.
 
 **Description:**
 
-CHANGEME Description of the problem or issue here.
+"Ian Strom" the Booty-bay rogue trainer doesn't look to require any level for training in spell ranks up to level 60.
 
 **Current behaviour:**
 
-CHANGEME Tell us what happens.
-If this is a crash, post the crashlog (upload to https://gist.github.com/).
+See above
 
 **Expected behaviour:**
 
-CHANGEME Tell us what should happen instead.
+Ranks should have the usual level requirement as with other trainers.
 
 **Steps to reproduce the problem:**
 
 CHANGEME
-1. Step 1 include entries of affected creatures / items / quests with a link to the relevant wowhead-like page.  
-2. Step 2
-3. Step 3
+Doesn't look triggered by anything at all (Race, level etc.) but is just the passive state of the npc
+
 
 Be very specific here! Even if the problem seems general, do tell which spells did you use, on what creature, in which conditions. (Very often the problem is only happening in a specific context)
 
